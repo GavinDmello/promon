@@ -1,3 +1,9 @@
+/*
+* pid stats
+* Copyright(c) 2017-present @GavinDmello
+* MIT Licensed
+*/
+
 const Stats = require('./index')
 const pidStats = new Stats()
 const chai = require('chai')

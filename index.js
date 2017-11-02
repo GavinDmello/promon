@@ -1,3 +1,9 @@
+/*
+* pid stats
+* Copyright(c) 2017-present @GavinDmello
+* MIT Licensed
+*/
+
 const fs = require('fs')
 const execSync = require('child_process').execSync
 
