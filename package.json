@@ -1,0 +1,23 @@
+{
+  "name": "pid-stats",
+  "version": "0.1.0",
+  "description": "Collector for pid status",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GavinDmello/pid-stats.git"
+  },
+  "author": "Gavin D'mello",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GavinDmello/pid-stats/issues"
+  },
+  "homepage": "https://github.com/GavinDmello/pid-stats#readme",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^4.0.1"
+  }
+}
