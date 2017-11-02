@@ -1,7 +1,7 @@
 {
-  "name": "pid-stats",
+  "name": "promon",
   "version": "0.1.0",
-  "description": "Collector for pid status",
+  "description": "Collector for pid stats",
   "main": "index.js",
   "scripts": {
     "test": "./node_modules/mocha/bin/mocha test.js"

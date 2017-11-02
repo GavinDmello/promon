@@ -1,8 +1,8 @@
-# pid-stats
+# Promon
 Collects information from /proc/pid/stat for linux/unix systems
 
 ```
-npm install pid-stats
+npm install promon
 ```
 
 
@@ -13,7 +13,7 @@ npm install pid-stats
 
 ## Example
 ```js
-	var Stats = require('pid-stats')
+	var Stats = require('promon')
 	var s = new Stats()
 	s.getStats(function (err, data) {
 		console.log(err, data)
